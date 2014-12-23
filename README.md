@@ -13,13 +13,28 @@ var myNewSoftwareStack = giveMeSoftware();
 //   stack: [ 'Backbone', 'Algol', 'Redis', 'Flat Files' ] }
 ```
 
+**NEW!** Pick your own stack name!
+
+```javascript
+var giveMeSoftware = require('stackflow');
+var myNewSoftwareStack = giveMeSoftware('BEST');
+// { name: 'BEST',
+//   stack: [ 'Backbone', 'Express', 'SmartDB', 'Typescript' ] }
+```
+
 You can even use it as a command line tool!
 
 ```bash
 $ npm install -g stackflow
 $ stackflow
-{ name: 'MOOLA',
-  stack: [ 'MemCached', 'Oracle', 'OSX', 'LOLCode', 'Angular' ] }
+YAWN: YUI, Apache, Windows, Node.JS
+````
+
+Or, with your own name!
+
+```bash
+$ stackflow money
+MONEY: MemCached, Oracle, Node.JS, Express, YUI
 ````
 
 #### License

@@ -7,7 +7,7 @@
     "test": "node test"
   },
   "bin": {
-    "stackflow": "stackflow.js"
+    "stackflow": "cli.js"
   },
   "repository": {
     "type": "git",
