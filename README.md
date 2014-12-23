@@ -16,6 +16,7 @@ var myNewSoftwareStack = giveMeSoftware();
 You can even use it as a command line tool!
 
 ```bash
+$ npm install -g stackflow
 $ stackflow
 { name: 'MOOLA',
   stack: [ 'MemCached', 'Oracle', 'OSX', 'LOLCode', 'Angular' ] }
