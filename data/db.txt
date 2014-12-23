@@ -1,14 +1,15 @@
-SQL
-MySQL
-Postgres
-SmartDB
-CouchDB
-Mongo
-LevelDB
 Cassandra
-Riak
-Hadoop
+CouchDB
 Flat Files
-Oracle
+Hadoop
+LevelDB
+MariaDB
 Microsoft SQL Server
+Mongo
+MySQL
+Oracle
+Postgres
+Riak
 SAP
+SmartDB
+SQL

@@ -1,14 +1,19 @@
-Linux
-BSD
-OpenBSD
-NetBSD
-SunOS
-SmartOS
-Windows
-DOS
 Amiga
+Bare Metal
+BSD
+DOS
+GameBoy Color
+Linux
+NetBSD
+OpenBSD
 OSX
-UNIX
+Plan9
+RaspberryPi
+SmartOS
+SunOS
+TempleOS
 TI-83
-RaspBerry Pi
 Ubuntu
+UNIX
+Windows
+Xen

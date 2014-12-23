@@ -1,17 +1,28 @@
 Algol
-ASP
+ASP.net
+Brainfuck
 C
 C#
 C++
 Clojure
+CoffeeScript
+ColdFusion
+CrystalReports
 Delphi/Object Pascal
 DogeScript
+English
+Excel
 F#
 Haskell
+io.js
+J2EE
 Java
 JavaScript
+Lisp
 LOLCode
+Lua
 MATLAB
+MatLab
 Node.JS
 Objective-C
 Pascal
@@ -25,5 +36,6 @@ R
 Ruby
 Swift
 Transact-SQL
+TypeScript
 Visual Basic
-io.js
+Word

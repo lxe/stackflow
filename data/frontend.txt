@@ -1,9 +1,14 @@
-Ember
 Angular
-React
 Backbone
-jQuery
-Vanilla.js
+Ember
 EXT.js
-Prototype.js
+GWT
+jQuery
+Macromedia Flash 6.0
 Mootools
+Prototype.js
+qooxdoo
+React
+SproutCore
+Vanilla.js
+YUI

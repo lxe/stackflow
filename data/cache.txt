@@ -1,2 +1,3 @@
-Redis
 MemCached
+Redis
+Varnish
