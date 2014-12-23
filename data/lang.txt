@@ -1,0 +1,29 @@
+Algol
+ASP
+C
+C#
+C++
+Clojure
+Delphi/Object Pascal
+DogeScript
+F#
+Haskell
+Java
+JavaScript
+LOLCode
+MATLAB
+Node.JS
+Objective-C
+Pascal
+Perl
+PHP
+PHP
+PL/SQL
+Python
+QuickBasic
+R
+Ruby
+Swift
+Transact-SQL
+Visual Basic
+io.js

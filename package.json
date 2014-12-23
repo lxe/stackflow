@@ -1,0 +1,31 @@
+{
+  "name": "stackflow",
+  "version": "1.0.0",
+  "description": "Generate a software stack that markets itself!",
+  "main": "stackflow.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "bin": {
+    "stackflow": "stackflow.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lxe/stackflow.git"
+  },
+  "keywords": [
+    "stack",
+    "software",
+    "parody",
+    "humor"
+  ],
+  "author": "Aleksey Smolenchuk <lxe@lxe.co>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lxe/stackflow/issues"
+  },
+  "homepage": "https://github.com/lxe/stackflow",
+  "dependencies": {
+    "word-list": "^1.0.0"
+  }
+}

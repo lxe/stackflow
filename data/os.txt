@@ -1,0 +1,14 @@
+Linux
+BSD
+OpenBSD
+NetBSD
+SunOS
+SmartOS
+Windows
+DOS
+Amiga
+OSX
+UNIX
+TI-83
+RaspBerry Pi
+Ubuntu
