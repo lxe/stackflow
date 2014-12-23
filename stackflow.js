@@ -55,6 +55,9 @@ function findStack(word) {
     order = order.split('');
 
     var available = null, softwareUsed = { };
+
+    shuffle(software); // for good measure
+
     for (var i = 0; i < order.length; i++) {
 
       for (var j = 0; j < software.length; j++) {
