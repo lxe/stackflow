@@ -1,6 +1,10 @@
 Amiga
+Apple ][
 Bare Metal
 BSD
+Commodore 64
+CoreOS
+Docker
 DOS
 GameBoy Color
 Linux
@@ -8,12 +12,14 @@ NetBSD
 OpenBSD
 OSX
 Plan9
-RaspberryPi
+PlayStation 2
+Raspberry Pi
 SmartOS
 SunOS
 TempleOS
 TI-83
 Ubuntu
 UNIX
-Windows
+Windows XP
+X-Bpx
 Xen

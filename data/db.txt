@@ -9,6 +9,7 @@ Mongo
 MySQL
 Oracle
 Postgres
+RethinkDB
 Riak
 SAP
 SmartDB
