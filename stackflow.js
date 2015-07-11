@@ -1,15 +1,7 @@
-#!/usr/bin/env node
-
 'use strict';
 
 var fs = require('fs');
-var wordListPath = require('word-list');
-
-// TODO: Make funnier
-var words = fs.readFileSync(wordListPath, {
-    encoding: 'utf8'
-  })
-  .split('\n')
+var words = require('sowpods')
   .filter(function filterWords(word) {
     return (word.length === 4 || word.length === 5)
   });
@@ -17,10 +9,9 @@ var words = fs.readFileSync(wordListPath, {
 // TODO: Add more
 var software = fs.readdirSync(__dirname + '/data')
   .map(function eachFile(file) {
-    return fs.readFileSync(__dirname + '/data/' + file)
-      .toString()
+    return fs.readFileSync(__dirname + '/data/' + file, 'utf-8')
       .split('\n')
-      .filter(Boolean);
+      .filter(Boolean)
   });
 
 //+ Jonas Raoni Soares Silva
